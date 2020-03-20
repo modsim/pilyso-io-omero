@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+docs/_build/
+.idea/
+build/
+dist/
+examples/*.tif
+examples/*.tiff
+*.egg-info/
+
+__pycache__/
+*.pyc
+
+*.dll
+*.so
