@@ -1,6 +1,6 @@
 # pilyso-io-omero
 
-Plugin for [`pilyso-io`](https://github.com/csachs/pilyso-io), allowing for access of image data stored on
+Plugin for [`pilyso-io`](https://github.com/modsim/pilyso-io), allowing for access of image data stored on
 [OMERO](https://www.openmicroscopy.org/omero/) image storage servers.
 
 Load the module using the `PILYSO_IO_MODULES` environment variable:

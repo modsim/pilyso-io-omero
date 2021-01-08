@@ -12,7 +12,7 @@ setup(
     long_description='Python Image anaLYsis SOftware library',
     author='Christian Sachs',
     author_email='c.sachs@fz-juelich.de',
-    url='',
+    url='https://github.com/modsim/pilyso-io-omero',
     packages=find_packages(),
     requires=['numpy'],
     license='GPL',
@@ -25,9 +25,7 @@ setup(
         'Operating System :: MacOS :: MacOS X',
         'Operating System :: Microsoft :: Windows',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
         'Topic :: Software Development :: Libraries',
         'Topic :: Scientific/Engineering :: Bio-Informatics',
-
     ]
 )
