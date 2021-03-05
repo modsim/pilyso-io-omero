@@ -14,7 +14,7 @@ setup(
     author_email='c.sachs@fz-juelich.de',
     url='https://github.com/modsim/pilyso-io-omero',
     packages=find_packages(),
-    requires=['numpy'],
+    install_requires=['numpy'],
     license='GPL',
     classifiers=[
         'Development Status :: 4 - Beta',
